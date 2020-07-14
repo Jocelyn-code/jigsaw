@@ -21,3 +21,4 @@ Note for Windows users with Git Bash: you may need to run 'npm run setup' a coup
   
 This will open up a tab in your browser, running a server at `localhost:3000` (unless you have set up a proxy server address - details on how to change this are in the `gulpfile.js` file).
 
+[![Run on Repl.it](https://repl.it/badge/github/andysellick/jigsaw)](https://repl.it/github/andysellick/jigsaw)
